@@ -1,0 +1,2 @@
+# invest
+Invest, not gamble
