@@ -1,0 +1,15 @@
+Final Portfolio Report
+=====================
+
+Start Date: 2007-01-31
+End Date: 2024-10-31
+Risk-Free Rate: 2.0%
+
+Total Investment: $214000.00
+Total Return: $581844.68
+Money-Weighted Return (MWR): 79484.47%
+Time-Weighted Return (TWR): 79584367.75%
+Sharpe Ratio: 0.00
+
+Final Asset Holdings (Shares):
+SPY: 1372.12 shares
