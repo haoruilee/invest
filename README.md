@@ -2,7 +2,8 @@
 
 Endure slowly getting rich, investing for the future 20 years from now.
 
-— 2024.11.29
+
+![a5d7ddf880133ec89385d9653a44fed7.png](https://i.dawnlab.me/a5d7ddf880133ec89385d9653a44fed7.png)
 
 # Asset Selection Criteria
 
