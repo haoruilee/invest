@@ -19,7 +19,7 @@ def download_data(symbols, start_date, end_date):
     prices = {}
     for symbol in symbols:
         data = yf.download(symbol, start=start_date, end=end_date)
-        prices[symbol] = data['Adj Close']
+        prices[symbol] = data['Close']
         
         # 打印每个资产的最早交易日期
         earliest_date = data.index.min()
